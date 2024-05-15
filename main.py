@@ -33,8 +33,6 @@ import ssl
 from pyngrok import ngrok, conf, installer
 from langchain.retrievers import EnsembleRetriever
 import os
-# from openai import OpenAI
-# from openai import OpenAI
 os.environ["OPENAI_API_KEY"] = ""
 client = OpenAI(
     # This is the default and can be omitted

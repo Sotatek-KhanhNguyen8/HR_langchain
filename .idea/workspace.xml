@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6dc2463-d879-4f7b-b0c0-7e3a1b8a49b3" name="Changes" comment="" />
+    <list default="true" id="b6dc2463-d879-4f7b-b0c0-7e3a1b8a49b3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +76,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/main.py</url>
-          <line>614</line>
+          <line>612</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
