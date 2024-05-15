@@ -40,7 +40,7 @@ client = OpenAI(
     temperature=0
 )
 
-os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
+os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 # os.environ["ALLOW_DANGEROUS_DESERIALIZATION"]="TRUE"
 with open('data/luat_lao_dong_nice.txt', 'r', encoding='utf-8') as f:
     data_quydinh = f.read()
