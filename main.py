@@ -13,7 +13,6 @@ from langchain.chains import RetrievalQA
 # from transformers import AutoModel, AutoTokenizer
 # from langchain.tools import tool
 # from langchain.agents import initialize_agent, AgentType
-# # import bs4
 from langchain.chains import create_history_aware_retriever, create_retrieval_chain
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_chroma import Chroma
