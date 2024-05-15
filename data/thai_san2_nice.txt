@@ -1,0 +1,278 @@
+Hướng dẫn thủ tục hưởng chế độ Ốm đau- Thai sản do BHXH chi trả, có 3 chế độ chính:
+01 Chế độ ốm đau
+02 Chế độ thai sản 
+03 Dưỡng sức phục hồi sức khỏe
+ 
+Thắc mắc vui lòng liên hệ: hai.vu (C&B Lead) - mai.nguyen11 (C&B) 
+Lưu ý: Đây là chế độ BHXH liên quan đến ngày nghỉ hưởng lương do BHXH chi trả, chế độ BHYT liên quan đến chi phí khám, chữa bệnh, thuốc men (ngoại trú hoặc nằm viện) thì NLĐ sẽ dùng thẻ BHYT và theo hướng dẫn tại cơ sở khám chữa bệnh. 
+- Khi nghỉ theo chế độ ốm đau: log portal nghỉ không lương 
+- Khi nghỉ theo chế độ thai sản/vợ sinh: log portal nghỉ thai sản 
+01. Chế độ ốm đau
+Chế độ ốm đau BHXH chi trả 
+ * Bản thân ốm 
+ * Con ốm 
+ * Ốm dài ngày 
+Bản thân ốm (bệnh thông thường) :
+Điều kiện hưởng chế độ Bản thân ốm (bệnh thông thường) : Người lao động đang tham gia BHXH bị ốm đau, tai nạn không phải TNLĐ, BNN hoặc TNLĐ, BNN tái phát phải nghỉ việc và có xác nhận của cơ sở y tế.
+Thời gian hưởng chế độ Bản thân ốm (bệnh thông thường):
+ * Đóng BHXH dưới 15 năm: Nghỉ tối đa 30 ngày/năm
+ * Đóng BHXH từ đủ 15 năm đến dưới 30 năm: nghỉ tối đa 40 ngày/năm
+ * Đóng BHXH từ đủ 30 năm trở lên: nghỉ tối đa 60 ngày/năm 
+(Thời gian nghỉ không tính ngày nghỉ hàng tuần, nghỉ lễ, tết)
+Mức hưởng chế độ Bản thân ốm (bệnh thông thường): Tiền lương tháng đóng BHXH của tháng liền kề trước khi nghỉ việc/ 24 ngày x 75% x Số ngày nghỉ việc được hưởng chế độ ốm đau. 
+
+Bản thân ốm - Thành phần hồ sơ:
+ * Trường hợp điều trị nội trú :
+- Bản sao Giấy ra viện của NLĐ. 
+- Trường hợp chuyển tuyến khám bệnh, chữa bệnh trong quá trình điều trị nội trú thì có thêm Bản sao Giấy chuyển tuyến hoặc Giấy chuyển viện. 
+ * Trường hợp điều trị ngoại trú : 
+Bản chính Giấy chứng nhận nghỉ việc hưởng BHXH hoặc giấy ra viện có chỉ định của y, bác sĩ điều trị cho nghỉ thêm sau thời gian điều trị nội trú. 
+ * Trường hợp NLĐ, chữa bệnh ở nước ngoài : 
+Bản sao của bản dịch tiếng Việt giấy KCB do cơ sở KCB ở nước ngoài cấp. 
+
+Con ốm:
+Điều kiện hưởng Con ốm: Phải nghỉ việc để chăm sóc con dưới 07 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền. 
+Mức hưởng chế độ con ốm: Tiền lương tháng đóng BHXH của tháng liền kề trước khi nghỉ việc/  24 ngày x 75% x Số ngày nghỉ việc được hưởng chế độ trông con ốm.
+Thời gian hưởng chế độ con ốm:
++ 20 Ngày làm việc/năm - con dưới 03 tuổi 
++ 15 Ngày làm việc/năm – con từ đủ 03 tuổi đến dưới 07 tuổi 
++ TH cả cha và mẹ cùng tham gia BHXH, thời gian hưởng chế độ khi con ốm đau của mỗi cha/mẹ theo quy định trên. 
+Con ốm - Thành phần hồ sơ :
+ * Một trong các giấy tờ sau :
+- Giấy ra viện (Bản chính hoặc bản sao)  trong trường hợp con của NLĐ điều trị nội trú 
+- Giấy chứng nhận nghỉ việc hưởng BHXH trong trường hợp con của NLĐ điều trị ngoại trú ( Mẫu C65 – HD). Hoặc giấy tờ KCB  (Bản chính hoặc bản sao). 
+- Bản dịch tiếng Việt được chứng thực (Bản chính hoặc bản sao) của giấy KCB do cơ sở y tế nước ngoài cấp đối với trường hợp con KCB ở nước ngoài. 
+
+
+Ốm dài ngày 
+Thời gian hưởng chế độ ốm dài ngày:
+ * Tối đa 180 ngày tính cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần. (1) 
+ * Hết thời hạn hưởng chế độ ốm đau quy định tại điểm (1) khoản này mà vẫn tiếp tục điều trị thì được hưởng tiếp chế độ ốm đau với mức thấp hơn nhưng thời gian hưởng tối đa bằng thời gian đã đóng bảo hiểm xã hội. Thời gian nghỉ ốm đau dài ngày tính cả ngày nghỉ hàng tuần, nghỉ lễ, tết. 
+Danh mục bệnh cần điều trị dài ngày được quy định trong thông tư số 46/2016/TT-BYT ngày 30/12/2016. 
+Điều kiện hưởng chế độ ốm dài ngày: NLĐ tham gia BHXH nghỉ việc do mắc bệnh thuộc danh mục bệnh cần chữa trị dài ngày do Bộ y tế ban hành.
+Ốm dài ngày- Mức hưởng:
+180 ngày đầu : 75% TL,TC làm căn cứ đóng BHXH của tháng liền kề trước khi nghỉ. 
+Kể từ ngày 181 trở đi: Mức hưởng thấp hơn, phụ thuộc vào thời gian đóng BHXH 
+- Bằng 65% mức tiền lương đóng bảo hiểm xã hội của tháng liền kề trước khi nghỉ việc nếu đã đóng bảo hiểm xã hội từ đủ 30 năm trở lên. 
+- Bằng 55% mức tiền lương đóng bảo hiểm xã hội của tháng liền kề trước khi nghỉ việc nếu đã đóng bảo hiểm xã hội từ đủ 15 năm đến dưới 30 năm. 
+- Bằng 50% mức tiền lương đóng bảo hiểm xã hội của tháng liền kề trước khi nghỉ việc nếu đã đóng bảo hiểm xã hội dưới 15 năm.
+
+Ốm dài ngày- Thành phần hồ sơ 
+ * Trường hợp điều trị nội trú :
++ Bản sao Giấy ra viện của NLĐ. Trường hợp người bệnh tử vong tại cơ sở khám bệnh, chữa bệnh thì thay bằng bản sao Giấy báo tử; trường hợp Giấy báo tử không thể hiện thời gian vào viện thì bổ sung giấy tờ khác của cơ sở khám, chữa bệnh có thể hiện thời gian vào viện. 
++ Trường hợp chuyển tuyến khám bệnh, chữa bệnh trong quá trình điều trị nội trú thì có thêm Bản sao Giấy chuyển tuyến hoặc Giấy chuyển viện. 
+ * Trường hợp điều trị ngoại trú:  
++ Bản chính Giấy chứng nhận nghỉ việc hưởng BHXH hoặc giấy ra viện có chỉ định của y, bác sĩ điều trị cho nghỉ thêm sau thời gian điều trị nội trú. 
+ * Trường hợp NLĐ, chữa bệnh ở nước ngoài:  Bản sao của bản dịch tiếng Việt giấy KCB do cơ sở KCB ở nước ngoài cấp. 
+
+Phần 2 CHẾ ĐỘ THAI SẢN 
+ * Khám thai 
+ * Sẩy thai, nạo thai, thai chết lưu hoặc phá thai bệnh lý 
+ * Sinh con 
+ * Nhận nuôi con nuôi dưới 06 tháng tuổi Chế độ thai sản 
+ * Mang thai hộ, nhờ mang thai hộ
+ * Nam nghỉ việc khi vợ sinh 
+ * Nam hưởng trợ cấp 1 lần khi vợ sinh 
+ * Thực hiện biện pháp triệt sản 
+Điều kiện hưởng - khám thai :
+ * Lao động nữ mang thai 
+ * Lao động tham gia đóng BHXH Khám thai Khám thai - thành phần hồ sơ:
+Giấy chứng nhận nghỉ việc hưởng BHXH của người lao động hoặc giấy chứng nhận của cơ sở y tế: phiếu khám thai
+Khám thai - mức hưởng:
+ * Mức hưởng = (Mbq6t / 24 ngày) x 100% x Số ngày nghỉ 
+ * Trong đó: 
+- Mbq6t : Mức bình quân tiền lương tháng đóng BHXH của 06 tháng trước khi nghỉ việc hưởng chế độ thai sản. 
+- Trường hợp chưa đóng đủ 06 tháng thì mức tiền lương bình quân được tính trên số tháng đã đóng.
+Khám thai - Thời gian hưởng:
+ * Trong thời gian mang thai, lao động nữ được nghỉ việc để đi khám thai 05 lần, mỗi lần 01 ngày. Thai có bệnh lý hoặc không bình thường được nghỉ mỗi lần 02 ngày. 
+ * Thời gian nghỉ việc hưởng chế độ thai sản quy định tính theo ngày làm việc không kể ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần. 
+
+Sẩy thai, nạo thai, thai chết lưu :
+Sẩy thai, nạo thai, thai chết lưu - điều kiện hưởng:
+ * Lao động nữ mang thai 
+ * Lao động tham gia đóng BHXH đủ 6 tháng trở lên trong 12 tháng 
+Sẩy thai, nạo thai, thai chết lưu - Mức hưởng:
+Mức hưởng = Mbq6t/30 ngày x 100% x Số ngày nghỉ 
+Mbq6t : Mức bình quân tiền lương đóng BHXH 6 tháng liền kề trước khi nghỉ việc.
+Sẩy thai, nạo thai, thai chết lưu - thành phần hồ sơ:
+ * Giấy chứng nhận nghỉ việc hưởng BHXH đối với trường hợp điều trị ngoại trú. 
+ * Bản chính hoặc bản sao giấy ra viện đối với trường hợp điều trị nội trú. 
+(Khoản 2 Điều 101 Luật BHXH số 58)
+Sẩy thai, nạo thai, thai chết lưu - thời gian hưởng:
+ * Thời gian nghỉ việc tối đa được quy định như sau: 
+-  10 ngày nếu thai dưới 05 tuần tuổi; 
+-  20 ngày nếu thai từ 05 tuần tuổi đến dưới 13 tuần tuổi; 
+-  40 ngày nếu thai từ 13 tuần tuổi đến dưới 25 tuần tuổi; 
+-  50 ngày nếu thai từ 25 tuần tuổi trở lên. 
+ * Thời gian nghỉ việc hưởng chế độ thai sản tính cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần. 
+Sinh con:
+Sinh con - Điều kiện hưởng:
+ * Phải đóng bảo hiểm xã hội từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi sinh con. 
+ * Người lao động sinh con đã đóng bảo hiểm xã hội từ đủ 12 tháng trở lên mà khi mang thai phải nghỉ việc để dưỡng thai theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền thì phải đóng bảo hiểm xã hội từ đủ 03 tháng trở lên trong thời gian 12 tháng trước khi sinh con. 
+
+Sinh con - thời gian hưởng:
+-   Lao động nữ sinh con được nghỉ việc hưởng chế độ thai sản trước và sau khi sinh con là 06 tháng. TH lao động nữ sinh đôi trở lên thì tính từ con thứ hai trở đi, cứ mỗi con, người mẹ được nghỉ thêm 01 tháng. (Thời gian nghỉ hưởng chế độ thai sản trước khi sinh tối đa không quá 02 tháng) 
+-   Thời gian hưởng chế độ thai sản tính cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần. 
+
+Sinh con - thành phần hồ sơ:
+-   Bản sao giấy khai sinh/giấy chứng sinh của con 
+Sinh con - mức hưởng:
+Mức hưởng  = 100% mức bình quân tiền lương tháng đóng BHXH của 06 tháng trước khi nghỉ việc hưởng chế độ thai sản x số tháng nghỉ + Tiền lương cơ sở x 2. Mức hưởng Sinh con 
+Con chết sau khi sinh :
+Điều kiện hưởng chế độ Con chết sau khi sinh :
+Phải đóng bảo hiểm xã hội từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi sinh con. 
+Con chết sau khi sinh - Thời gian hưởng 
+Sau khi sinh con: 
+-  Nếu con dưới 02 tháng tuổi bị chết thì mẹ được nghỉ việc 04 tháng tính từ ngày sinh con. 
+-  Nếu con từ 02 tháng tuổi trở lên bị chết thì mẹ được nghỉ việc 02 tháng tính từ ngày con chết, nhưng thời gian nghỉ việc hưởng chế độ thai sản không vượt quá thời gian quy định. 
+
+Con chết sau khi sinh -Mức hưởng :
+Mức hưởng  = 100% mức bình quân tiền lương tháng đóng BHXH của 06 tháng trước khi nghỉ việc hưởng chế độ thai sản x số tháng nghỉ + Tiền lương cơ sở x 2 
+Thành phần hồ sơ 
+-  Bản sao Giấy khai sinh/Trích lục khai sinh hoặc bản sao Giấy chứng sinh của con 
+-  Bản sao Giấy chứng tử/Trích lục khai tử hoặc bản sao Giấy báo tử của con 
+-  Trường hợp con chết ngay sau khi sinh mà chưa được cấp Giấy chứng sinh, trích sao/ tóm tắt hồ sơ bệnh án hoặc Giấy ra viện của người mẹ hoặc của lao động nữ mang thai hộ thể hiện con chết. 
+
+Nhận nuôi con nuôi dưới 06 tháng tuổi :
+Nhận nuôi con nuôi dưới 06 tháng tuổi - Điều kiện hưởng:
+Lao động tham gia đóng BHXH 6 tháng trở lên trong vòng 12 tháng. 
+Nhận nuôi con nuôi dưới 06 tháng tuổi - mức hưởng:
+Mức hưởng  = 100% mức bình quân tiền lương tháng đóng BHXH của 06 tháng trước khi nghỉ việc hưởng chế độ thai sản x số tháng nghỉ + Tiền lương tối thiểu chung x 2
+Nhận nuôi con nuôi dưới 06 tháng tuổi - thành phần hồ sơ:
+Bản sao Giấy chứng nhận nuôi con nuôi.
+Nhận nuôi con nuôi dưới 06 tháng tuổi - thời gian hưởng:
+ * Người lao động nhận nuôi con nuôi dưới 06 tháng tuổi thì được nghỉ việc hưởng chế độ thai sản cho đến khi con đủ 06 tháng tuổi. 
+ * Trường hợp cả cha và mẹ cùng tham gia bảo hiểm xã hội đủ điều kiện hưởng chế độ thai sản quy định thì chỉ cha hoặc mẹ được nghỉ việc hưởng chế độ. 
+Mang thai hộ- Điều kiện hưởng:
+ * Phải đóng bảo hiểm xã hội từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi sinh con. 
+ * Người lao động sinh con đã đóng bảo hiểm xã hội từ đủ 12 tháng trở lên mà khi mang thai phải nghỉ việc để dưỡng thai theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền thì phải đóng bảo hiểm xã hội từ đủ 03 tháng trở lên trong thời gian 12 tháng trước khi sinh con. 
+Mang thai hộ -Thời gian hưởng :
+ * Lao động nữ mang thai hộ được hưởng chế độ khi khám thai, sẩy thai, nạo, hút thai, thai chết lưu hoặc phá thai bệnh lý và chế độ khi sinh con cho đến thời điểm giao đứa trẻ cho người mẹ nhờ mang thai hộ nhưng không vượt quá thời gian quy định. 
+ * TH kể từ ngày sinh đến thời điểm giao đứa trẻ mà thời gian hưởng chế độ thai sản chưa đủ 60 ngày, người mang thai hộ vẫn được hưởng chế độ thai sản cho đến khi đủ 60 ngày tính cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần. 
+Mang thai hộ - Mức  hưởng : 100% mức bình quân tiền lương tháng đóng BHXH của 06 tháng trước khi nghỉ việc hưởng chế độ thai sản x số tháng nghỉ + Tiền lương cơ sở x 2.
+Mang thai hộ - Thành phần hồ sơ :
+ * Giấy khai sinh hoặc trích lục khai sinh hoặc giấy chứng sinh của con. 
+ * Bản thỏa thuận về mang thai hộ vì Mục đích nhân đạo theo quy định tại Điều 96 của Luật Hôn nhân và gia đình năm 2014; văn bản xác nhận thời Điểm giao đứa trẻ của bên nhờ mang thai hộ và bên mang thai hộ. 
+ * Trường hợp con chết : Giấy chứng tử hoặc trích lục khai tử của con hoặc trích sao hồ sơ bệnh án hoặc giấy ra viện của lao động nữ mang thai hộ trong trường hợp con chết sau khi sinh mà chưa được cấp giấy chứng sinh. 
+ * Trường hợp lao động nữ mang thai hộ sau sinh bị chết : Giấy chứng tử hoặc trích lục khai tử. 
+ * Giấy xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền trong trường hợp lao động nữ khi mang thai hộ phải nghỉ việc để dưỡng thai theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền (mẫu và thẩm quyền cấp theo quy định của Bộ Y tế). 
+
+Nhờ mang thai hộ - Điều kiện hưởng:
+Người mẹ nhờ mang thai hộ có đóng BHXH từ đủ 6 tháng trong thời gian 12 tháng tính đến thời điểm nhận con, được trợ cấp thai sản. 
+Nhờ mang thai hộ - Mức hưởng :
+- Trợ cấp 1 lần = Tiền lương cơ sở x 2. (Nếu người mẹ mang thai hộ không tham gia BHXH bắt buộc hoặc không đủ điều kiện hưởng chế độ thai sản)
+- 100% mức bình quân tiền lương tháng đóng BHXH của 06 tháng trước khi nghỉ việc hưởng chế độ thai sản x số tháng nghỉ 
+Nhờ mang thai hộ - Thời gian hưởng :
+Người mẹ nhờ mang thai hộ được hưởng chế độ thai sản từ thời điểm nhận con cho đến khi con đủ 06 tháng tuổi. 
+
+Nhờ mang thai hộ - Thành phần hồ sơ 
+Phần 2 CHẾ ĐỘ THAI SẢN 
+ * Giấy khai sinh hoặc trích lục khai sinh hoặc giấy chứng sinh của con. 
+ * Bản thỏa thuận về mang thai hộ vì Mục đích nhân đạo theo quy định tại Điều 96 của Luật Hôn nhân và gia đình năm 2014; văn bản xác nhận thời Điểm giao đứa trẻ của bên nhờ mang thai hộ và bên mang thai hộ. 
+ * Trường hợp con chết : Giấy chứng tử hoặc trích lục khai tử của con hoặc trích sao hồ sơ bệnh án hoặc giấy ra viện của lao động nữ mang thai hộ trong trường hợp con chết sau khi sinh mà chưa được cấp giấy chứng sinh. 
+ * Trường hợp lao động nữ mang thai hộ sau sinh bị chết : Giấy chứng tử hoặc trích lục khai tử. 
+ * Giấy xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền trong trường hợp lao động nữ khi mang thai hộ phải nghỉ việc để dưỡng thai theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền (mẫu và thẩm quyền cấp theo quy định của Bộ Y tế). 
+
+Nam nghỉ việc khi vợ sinh - Điều kiện hưởng:
+Lao động nam đang đóng BHXH có vợ sinh con có thời gian đóng BHXH từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi sinh con. 
+Nam nghỉ việc khi vợ sinh - Mức hưởng:
+Tiền thai sản = Số ngày nghỉ x (100% mức bình quân tiền lương tháng đóng BHXH của 06 tháng trước khi nghỉ/24). 
+Nam nghỉ việc khi vợ sinh - Thời gian hưởng:
+-  05 ngày làm việc (NLV) với sinh thường 1 con 
+-  07 NLV khi vợ sinh con phải phẫu thuật hoặc sinh con dưới 32 tuần tuổi 
+-  10 NLV với trường hợp sinh đôi, từ sinh ba, thêm mỗi con được nghỉ thêm 3 ngày làm việc, tối đa 14 ngày làm việc 
+-  TH vợ sinh đôi trở lên phải phẫu thuật, được nghỉ 14 NLV 
+(Thời gian hưởng chế độ không tính ngày lễ, tết, nghỉ hàng tuần) 
+Nam nghỉ việc khi vợ sinh - Thành phần hồ sơ :
+- Giấy khai sinh có họ tên cha; hoặc Giấy chứng sinh + Sổ hộ khẩu 
+- Trường hợp con chết : Giấy chứng tử hoặc trích lục khai tử của con hoặc trích sao hồ sơ bệnh án hoặc giấy ra viện của mẹ nếu con chết sau khi sinh mà chưa được cấp giấy chứng sinh (nếu có) 
+- Giấy xác nhận của cơ sở y tế trong trường hợp sinh con dưới 32 tuần tuổi hoặc sinh con phải phẫu thuật (nếu có) .
+Nam nghỉ việc khi vợ sinh - Chú ý:
+ * NLĐ nghỉ hưởng chế độ trong vòng 30 ngày kể từ ngày vợ sinh con, nếu có nghỉ những ngày trước khi vợ sinh con, tính là nghỉ không lương, nghỉ phép của NLĐ. 
+ * Trường hợp NLĐ nam nghỉ nhiều lần, thời gian bắt đầu nghỉ việc của lần cuối cùng vẫn phải trong khoảng thời gian 30 ngày đầu kể từ ngày vợ sinh con và tổng thời gian nghỉ việc hưởng chế độ thai sản không quá thời gian quy định. 
+ * Thời gian lao động nam nghỉ khi vợ sinh con mà trùng thời gian nghỉ phép hằng năm, nghỉ việc riêng, nghỉ không hưởng lương: Không được tính hưởng chế độ thai sản.
+Nam hưởng trợ cấp 1 lần khi vợ sinh - Mức hưởng :
+Trợ cấp 01 lần/con = 2 x Mức lương cơ sở
+
+Nam hưởng trợ cấp 1 lần khi vợ sinh - Thành phần hồ sơ 
+-  Bản photo CMND/CCCD của mẹ 
+-  Số sổ BHXH của mẹ hoặc số thẻ BHYT của mẹ 
+Nam hưởng trợ cấp 1 lần khi vợ sinh - Điều kiện hưởng:
+Lao động nam được hưởng trợ cấp 1 lần khi vợ sinh con nếu thuộc một trong 2 trường hợp sau đây: 
+- Chỉ có lao động nam tham gia BHXH và phải đóng BHXH từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi vợ sinh con. 
+- Cả 2 vợ chồng cùng tham gia BHXH bắt buộc nhưng người mẹ không đủ điều kiện hưởng chế độ thai sản mà người cha đã đóng BHXH từ đủ 06 tháng trở lên trong thời gian 12 tháng trước khi vợ sinh con. 
+Thực hiện biện pháp tránh thai - Điều kiện hưởng:
+NLĐ đang tham gia BHXH thực hiện các biện pháp tránh thai hoặc LĐ thực hiện biện pháp đặt vòng 
+Thực hiện biện pháp tránh thai - Mức hưởng: = Mbq6t/30 ngày x 100% x Số ngày nghỉ (Mbq6t : Mức bình quân tiền lương đóng BHXH 6 tháng liền kề trước khi nghỉ việc. )
+Thực hiện biện pháp tránh thai - Thành phần hồ sơ:
+- Giấy chứng nhận nghỉ việc hưởng BHXH đối với trường hợp điều trị ngoại trú 
+- Bản chính hoặc bản sao giấy ra viện đối với trường hợp điều trị nội trú 
+Thực hiện biện pháp tránh thai - Thời gian hưởng:
+NLĐ được nghỉ theo chỉ định của cơ sở khám bệnh, chữa bệnh có thẩm quyền tuy nhiên không vượt quá: 
+-  07 ngày với lao động nữ đặt vòng tránh thai 
+-  15 ngày với người lao động thực hiện biện pháp triệt sản 
+(Thời gian hưởng chế độ bao gồm cả ngày lễ, tết, nghỉ hàng tuần) 
+
+
+Phần III: Dưỡng sức phục hồi sức khỏe
+ * Dưỡng sức sau ốm 
+ * Nghỉ sau thai sản Dưỡng sức phục hồi sức khỏe 
+
+Dưỡng sức sau ốm :
+Điều kiện hưởng -Dưỡng sức sau ốm:
+NLĐ đã nghỉ việc hưởng chế độ ốm đau đủ thời gian trong 1 năm theo quy định, trong khoảng thời gian 30 ngày đầu trở lại làm việc mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức, phục hồi sức khỏe từ 05 ngày đến 10 ngày trong 1 năm. 
+Mức hưởng - Dưỡng sức sau ốm := 30% x Lương cơ sở x số ngày nghỉ
+Thời gian hưởng - Dưỡng sức sau ốm:
+ * Các bệnh cần chữa trị dài ngày: nghỉ tối đa 10 ngày 
+ * Những người phải phẫu thuật: Nghỉ tối đa 07 ngày. 
+ * Các trường hợp khác: nghỉ tối đa 05 ngày. 
+ * Trường hợp có thời gian nghỉ dưỡng sức, phục hồi sức khỏe từ cuối năm trước chuyển tiếp sang đầu năm sau thì thời gian nghỉ đó được tính cho năm trước. 
+(Thời gian nghỉ dưỡng sức, phục hồi sức khỏe bao gồm cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần) 
+Nghỉ sau thai sản:
+Nghỉ sau thai sản - Thành phần hồ sơ: Giấy chứng nhận phẫu thuật đối với trường hợp sinh mổ 
+Nghỉ sau thai sản - Mức hưởng = 30% x Lương cơ sở x số ngày nghỉ 
+Nghỉ sau thai sản - Điều kiện hưởng:
+-  Là đối tượng tham gia bảo hiểm xã hội bắt buộc, đủ điều kiện hưởng chế độ thai sản. 
+-  Lao động nữ ngay sau thời gian hưởng chế độ thai sản trong khoảng thời gian 30 ngày đầu làm việc mà sức khỏe chưa phục hồi thì được nghỉ dưỡng sức, phục hồi sức khoẻ từ 05 ngày đến 10 ngày. 
+Nghỉ sau thai sản - Thời gian hưởng:
+-  Tối đa 10 ngày đối với lao động nữ sinh 1  lần từ 2 con trở lên 
+-  Tối đa 07 ngày đối với lao động nữ sinh con phải phẫu thuật 
+-  Tối đa 05 ngày đối với các trường hợp khác. 
+-  Trường hợp có thời gian nghỉ dưỡng sức, phục hồi sức khỏe từ cuối năm trước chuyển tiếp sang đầu năm sau thì thời gian nghỉ đó được tính cho năm trước (Thời gian nghỉ dưỡng sức, phục hồi sức khỏe bao gồm cả ngày nghỉ lễ, nghỉ Tết, ngày nghỉ hằng tuần)  
+
+
+QUYẾT ĐỊNH
+V/v: Chính sách hỗ trợ thai sản và nuôi con nhỏ đối với nhân viên nữ
+- Căn cứ Hợp đồng lao động giữa Nhân viên và Công ty Cổ phần Công nghệ SotaTek;
+- Căn cứ Điều kiện tài chính của Công ty;
+GIÁM ĐỐC CÔNG TY CỔ PHẦN CÔNG NGHỆ SOTA TEK
+QUYẾT ĐỊNH
+Điều 1: Áp dụng chính sách Hỗ trợ thai sản cho nhân viên nữ kể từ ngày 01/10/2020 và Hỗ trợ nuôi con nhỏ cho nhân viên nữ kể từ ngày 01/09/2021 như sau:
+1.1 Mục đích: Hỗ trợ thêm cho các nhân viên nữ có thâm niên làm việc, có cống hiến với công ty trong giai đoạn thai sản và nuôi con nhỏ.
+1.2 Đối tượng được hỗ trợ:
+- Nhân viên nữ đã làm việc tối thiểu 18 tháng dương lịch tính từ thời điểm ký hợp đồng lao động với công ty đến thời điểm sinh con (không bao gồm các tháng nghỉ không lương, nếu có);
+- Không vi phạm kỷ luật của công ty (nhắc nhở/kỷ luật bằng văn bản) trong khoảng thời gian này.
+- Nhân viên chưa xin nghỉ việc.
+1.3 Hình thức hỗ trợ:
+1.3.1 Trợ cấp thai sản: Hỗ trợ bằng tiền:
+- Từ 18 tháng: (B – C)/6 * 2
+- Từ 24 tháng: (B – C)/6 * 3
+- Từ 30 tháng: (B – C)/6 * 4
+Thời gian chi trả trợ cấp thai sản: Trả thành 6 đợt, trong vòng 12 tháng kể từ tháng sinh con. Nhân viên xin nghỉ việc sẽ không được hưởng trợ cấp kể từ tháng xin nghỉ.
+Trong đó:
+- A: Số tháng từ khi nhân viên ký hợp đồng chính thức đến thời điểm sinh con (tháng dương lịch, không bao gồm thời gian nghỉ không lương);
+- B: Tổng thu nhập 6 tháng gần nhất trước tháng sinh con (không bao gồm tiền gửi xe, tiền làm ngoài giờ và các khoản phúc lợi ngoài lương khác);
+- C: Tổng tiền trợ cấp thai sản do Bảo hiểm xã hội chi trả (không bao gồm tiền trợ cấp 1 lần).
+1.3.2 Trợ cấp nuôi con nhỏ: Hỗ trợ mua Bảo hiểm sức khỏe trong 03 năm cho con của nhân viên khi tròn 01 tuổi (theo quy định của hãng bảo hiểm):
+- Từ 18 tháng: Gói cao thứ 3 của người thân
+- Từ 24 tháng: Gói cao thứ 2 của người thân
+- Từ 30 tháng: Gói cao nhất của người thân
+Ghi chú: Thời gian Hợp đồng Bảo hiểm sẽ thay đổi theo điều kiện của từng năm.
+- Nếu HĐBH không có gói tương ứng thì tính theo gói cao hơn liền kề
+Lưu ý:
+- A: Số tháng từ khi nhân viên ký hợp đồng chính thức đến thời điểm sinh con (tháng dương lịch, không bao gồm thời gian nghỉ không lương);
+- Khi con tròn 01 tuổi, nhân viên thông báo cho phòng Nhân sự để làm thủ tục mua gói BHSK cho con nhân viên (mua theo đợt và tính theo năm tham gia của Hợp đồng Bảo hiểm. HĐBH hết hạn vào 23/8 hàng năm.)
+- Khi nhân viên nghỉ việc thì hiệu lực của gói Bảo hiểm cũng chấm dứt sau ngày làm việc cuối cùng.
+Điều 2: Quyết định này có hiệu lực kể từ ngày 01/09/2021. Quyết định số QD 2020-05 được ban hành và có hiệu lực ngày 01/10/2020 sẽ hết hiệu lực kể từ ngày 01/09/2021.
+Phòng Kế toán, Hành chính, Nhân sự, và các Phòng/Ban có liên quan chịu trách nhiệm thi hành quyết định này.
+
