@@ -452,7 +452,7 @@ def final_tool(query):
 import time
 def chat_with_history(query, user_id, conversation_id):
     human,ai = read_history(user_id, conversation_id)
-    ai = ai[:500]
+    # ai = ai[:1000]
     prompt = f'''KHÔNG trả lời câu hỏi. Dưới đây là lịch sử trò chuyện và câu hỏi mới nhất của người dùng, có thể tham khảo ngữ cảnh trong lịch sử trò chuyện, hãy tạo một câu hỏi độc lập
     có thể hiểu được nếu không có lịch sử trò chuyện. Chỉ cần sửa lại câu hỏi nếu cần và nếu không thì trả lại như cũ:
     last_query: {human}

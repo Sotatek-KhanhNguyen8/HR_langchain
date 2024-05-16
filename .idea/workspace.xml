@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b6dc2463-d879-4f7b-b0c0-7e3a1b8a49b3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/boi_thuong_suc_khoe_nice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/boi_thuong_suc_khoe_nice.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/cspl_nice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/cspl_nice.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/thai_san2_nice.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/thai_san2_nice.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db_all/index.faiss" beforeDir="false" afterPath="$PROJECT_DIR$/db_all/index.faiss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db_all/index.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/db_all/index.pkl" afterDir="false" />
