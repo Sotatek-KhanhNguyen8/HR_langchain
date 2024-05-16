@@ -5,8 +5,8 @@
             "AI": "Chế độ ốm đau BHXH bao gồm các quyền lợi sau:\n- Chế độ ốm đau BHXH chi trả cho bản thân khi người lao động đang tham gia BHXH bị ốm đau, tai nạn không phải TNLĐ, BNN hoặc TNLĐ, BNN tái phát phải nghỉ việc và có xác nhận của cơ sở y tế.\n- Chế độ ốm đau BHXH chi trả cho con khi người lao động phải nghỉ việc để chăm sóc con dưới 7 tuổi bị ốm đau và có xác nhận của cơ sở khám bệnh, chữa bệnh có thẩm quyền.\n- Chế độ ốm đau BHXH chi trả cho ốm dài ngày, với mức hưởng phụ thuộc vào thời gian đóng BHXH và thời gian nghỉ ốm đau."
         },
         "124": {
-            "human": "Điều 31 quy định gì?",
-            "AI": "Theo quy định, Điều 31 quy định về sơ cứu tại nơi làm việc. Các điểm sơ cứu được đặt tại nhiều nơi trong công ty và nhân viên sẽ được tuyên truyền về quy trình sơ cứu tại nơi làm việc. Hộp sơ cứu với các dụng cụ sơ cấp cứu ban đầu và tủ thuốc cũng được đặt tại nơi tiện dụng, dễ thấy tại văn phòng làm việc. Nhân viên không được tùy tiện lấy các dụng cụ sơ cứu trong tủ thuốc không nhằm cho mục đích sơ cứu, nếu phát hiện sẽ bị xử lý kỷ luật."
+            "human": "Điều khoản loại trừ chính bao gồm những gì?",
+            "AI": "Điều khoản loại trừ chính bao gồm:\n- Dịch vụ điều trị tại nhà (không bao gồm chi phí y tá chăm sóc tại nhà) hoặc tại viện điều trị bằng thủy lực hay các phương pháp thiên.\n- Kiểm tra sức khỏe định kỳ.\n- Khuyết tật bẩm sinh, dị tật bẩm sinh, các bệnh hoặc dị dạng thuộc về gen, tình trạng sức khỏe di truyền với các dấu hiệu từ lúc sinh.\n- Các chứng từ khác như mục “Ngoại trú”.\n- Chi phí sau ra viện không liên quan trực tiếp đến đợt điều trị nội trú trước đó.\n- Nha khoa (trừ trường hợp có ký kết quyền lợi “Nha khoa”).\n- Bệnh/thương tật có sẵn trong 365 ngày đầu tiên tham gia bảo hiểm.\n- Thời gian chờ trong các trường hợp như điều trị nội trú, ngoại trú, thai sản, tử vong, tàn tật toàn bộ vĩnh viễn."
         }
     }
 }

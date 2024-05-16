@@ -231,27 +231,27 @@ BẢO HIỂM SỨC KHỎE
 NHỮNG ĐIỀU CẦN BIẾT:
 ĐỐI TƯỢNG ÁP DỤNG
 -Công ty mua cho nhân viên:
-+ Nhân viên chính thức đã làm việc từ đủ 1 năm trở lên tính đến các mốc xétmua.
-+ Các cấp quản lý (từ cấp Lead/PM trở lên) đã ký hợp đồng lao động chính thức tính đến các mốc xét mua.
-Con mới sinh của nhân viên nữ đã làm đủ 18 tháng trở lên tính đến thời điểm sinh con (không bao gồm các tháng nghỉ không lương) và không vi phạm kỷ luật.
++ Nhân viên chính thức đã làm việc từ đủ 1 năm trở lên tính đến các mốc xét mua
++ Các cấp quản lý (từ cấp Lead/PM trở lên) đã ký hợp đồng lao động chính thức tính đến các mốc xét mua
+Con mới sinh của nhân viên nữ đã làm đủ 18 tháng trở lên tính đến thời điểm sinh con (không bao gồm các tháng nghỉ không lương) và không vi phạm kỷ luật
 - Nhân viên tự trả phí:
-+Mua cho bản thân do không thuộc đối tượng được công ty chi trả.
-+Mua cho người thân (con, vợ/chồng, bố/mẹ vợ, bố/mẹ chồng).
++Mua cho bản thân do không thuộc đối tượng được công ty chi trả
++Mua cho người thân (con, vợ/chồng, bố/mẹ vợ, bố/mẹ chồng)
 Người thân của CBNV cần đáp ứng thêm các điều kiện sau:
-Độ tuổi: Từ 15 ngày tuổi đến 70 tuổi.
-Trẻ em dưới 1 tuổi và người trên 65 tuổi sẽ áp dụng thu phí bổ sung 30% phí cơ bản, Không bị các bệnh lý về thần kinh,phong, ung thư, Không bị thương tật 50% trở lên
+Độ tuổi: Từ 15 ngày tuổi đến 70 tuổi
+Trẻ em dưới 1 tuổi và người trên 65 tuổi sẽ áp dụng thu phí bổ sung 30% phí cơ bản, Không bị các bệnh lý về thần kinh,phong, ung thư, Không bị thương tật 50% trở lên.
 
-Trong năm sẽ có 3 đợt mua: 23/1, 23/4 và 23/8. Mốc xét mua tương ứng là 1/1, 1/4 và 1/8
+Trong năm sẽ có 3 đợt mua: 23/1, 23/4 và 23/8, Mốc xét mua tương ứng là 1/1, 1/4 và 1/8.
 CÁC QUYỀN LỢI CỦA CHƯƠNG TRÌNH BẢO HIỂM DÀNH CHO NHÂN VIÊN:
 - PHẠM VI CHI TRẢ:
-Bảo hiểm sinh mạng, thương tật toàn bộ hoặc bộ phận
-Chi phí điều trị nội trú, ngoại trú (ốm đau, tai nạn, thai sản)
-Khám thai định kỳ
-Trợ cấp lương khi điều trị nội trú, ngoại trú
-Điều trị răng
++ Bảo hiểm sinh mạng, thương tật toàn bộ hoặc bộ phận
++ Chi phí điều trị nội trú, ngoại trú (ốm đau, tai nạn, thai sản)
++ Khám thai định kỳ
++ Trợ cấp lương khi điều trị nội trú, ngoại trú
++ Điều trị răng
 Lưu ý:
 Không áp dụng chi trả cho các điều khoản loại trừ ở phần 2 Phụ lục
-Bảo hiểm Bảo Việt sẽ chỉ chi trả tiền bồi thường khi mọi người đi khám và được kết luận có bệnh (không áp dụng với mục khám thai định kỳ)
+Bảo hiểm Bảo Việt sẽ chỉ chi trả tiền bồi thường khi mọi người đi khám và được kết luận có bệnh (không áp dụng với mục khám thai định kỳ).
 - CÁC CHƯƠNG TRÌNH BẢO HIỂM:
 + Đối tượng: Công ty mua cho nhân viên, Quyền lợi bản thân: Bảo hiểm chương trình 1, Quyền lợi mua bảo hiểm cho người thân: Được tự mua bảo hiểm cho người thân Chương tình 2 hoặc 3
 + Đối tượng: Nhân viên tự trả phí, Quyền lợi bản thân: Có thể tự mua Chương trình 1,2,3, Quyền lợi mua bảo hiểm cho người thân: Được tự mua bảo hiểm cho nười thân Chương trình 2 hoặc 3
@@ -259,15 +259,14 @@ Thời điểm tái tục hợp đồng bảo hiểm: ngày 23/08 hàng năm
 CÁC QUYỀN LỢI CỦA CHƯƠNG TRÌNH BẢO HIỂM:
 * ĐIỀU TRỊ NỘI TRÚ DO ỐM BỆNH, THAI SẢN
 (Giới hạn trách nhiệm tối đa/người/năm: 180000000 VNĐ)
-- Nằm viện do ốm bệnh, sinh thường, sinh mổ, biến chứng thai sản (tối đa 60 ngày/năm): Các chi phí điều trị, tiền giường, phòng, phòng chăm sóc đặc biệt, phòng cấp cứu, các chi phí y tế khác trong gian nằm viện (bao gồm chi phí điều trị trong ngày), Hạn mức nằm viện do ốm bệnh, sinh thường, sinh mổ, biến chứng thai sản: Trả theo chi phí y tế thực tế, hợp lý, Tối đa 3000000 VNĐ/ngày, 60000000 VNĐ/năm
-- Phẫu thuật do ốm bệnh, sinh mổ, biến chứng thai sản (bao gồm cả phẫu thuật trong ngày):
+- Nằm viện: Nằm viện do ốm bệnh, sinh thường, sinh mổ, biến chứng thai sản (tối đa 60 ngày/năm): Các chi phí điều trị, tiền giường, phòng, phòng chăm sóc đặc biệt, phòng cấp cứu, các chi phí y tế khác trong gian nằm viện (bao gồm chi phí điều trị trong ngày), Hạn mức nằm viện do ốm bệnh, sinh thường, sinh mổ, biến chứng thai sản: Trả theo chi phí y tế thực tế, hợp lý, Tối đa 3000000 VNĐ/ngày, 60000000 VNĐ/năm
+- Phẫu thuật: Phẫu thuật do ốm bệnh, sinh mổ, biến chứng thai sản (bao gồm cả phẫu thuật trong ngày): Hạn mức: Chi trả thực tế tối đa 70000000 VNĐ/năm:
     + Các chi phí hội chẩn trước khi mổ và hồi sức sau khi mổ
     + Chi phí tái mổ
     + Chi phí cấy ghép nội tạng (loại trừ Chi phí mua cơ quan cấy ghép nội tạng và toàn bộ các chi phí phát sinh cho người hiến tạng)
     + Chi phí thuốc men, vật tư y tế
     + Phòng mổ, phẫu thuật viên, các chi phí gây mê
     + Các thiết bị cần thiết và hợp lý theo sự kê đơn của bác sỹ
-    + Hạn mức: Chi trả thực tế tối đa 70000000 VNĐ/năm
 - Các quyền lợi khác (Không áp dụng cho thai sản, trừ chi phí khám trước khi nhập viện phục vụ cho ca sinh):
 + Chi phí khám trước khi nhập viện (1 lần duy nhất trong vòng 30 ngày trước khi nhập viện) :3000000 VNĐ/năm
 + Chi phí điều trị sau khi xuất viện (30 ngày kể từ ngày xuất viện): 3000000 VNĐ/năm
@@ -301,7 +300,7 @@ Nhổ răng bệnh lý (bao gồm tiểu phẫu, phẫu thuật)
 Hạn mức: Tối đa 2.200000 VNĐ/năm
 Trong đó cạo vôi răng tối đa 400000 VNĐ/năm
 * CÁC QUYỀN LỢI KHÁC:
-- Bảo hiểm sinh mạng: Chết, tàn tật toàn bộ vĩnĩh viễn do mọi nguyên nhân (không bao gồm nguyên nhân tai nạn): Hạn mức: 50000000 VNĐ/vụ
+- Bảo hiểm sinh mạng: Chết, tàn tật toàn bộ vĩnh viễn do mọi nguyên nhân (không bao gồm nguyên nhân tai nạn): Hạn mức: 50000000 VNĐ/vụ
 - Chết, thương tật vĩnh viễn do tai nạn: Chết, thương tật toàn bộ vĩnh viễn: 100% hạn mức, Thương tật bộ phận vĩnh viễn: Trả % của hạn mức theo bảng tỷ lệ thương tật, Hạn mức: 120000000 VNĐ/vụ
 - Chi phí y tế do tai nạn bao gồm chi phí điều trị y tế nội/ngoại trú, thuốc men, vật tư y tế cần thiết theo kê đơn của bác sỹ, dịch vụ vận chuyển cấp cứu (loại trừ đường hàng không và IPA) Hạn mức: Thanh toán theo chi phí thực tế, Tối đa 80000000 VNĐ/năm
 - Chi phí khám thai định kỳ: Hạn mức: 450000 VNĐ/năm
@@ -329,14 +328,14 @@ Thời gian chờ:
 
 PHỤ LỤC
 PHẦN 1: Định nghĩa (tham khảo một số định nghĩa khác tại link)
-Bệnh đặcặ biệt: là những bệnh ung thư, u/bướu các loại; huyết áp, các bệnh về tim, đột quỵ, suy/giãn tĩnh mạch; loét dạ dày, loét ruột, viêm gan A/B/C, xơ gan, suy gan, sỏi mật; sỏi thận và niệu quản, sỏi đường tiết niệu dưới, hội chứng thận hư, suy thận; viêm khớp/đa khớp mãn tính, thoái hóa cột sống; suy tủy xương; đục thủy tinh thể bệnh lý; Parkinson, Alzheimer, hội chứng mất trí nhớ; đái tháo đường; tràn khí màng phổi; lupus ban đỏ
+Bệnh đặc biệt: là những bệnh ung thư, u/bướu các loại; huyết áp, các bệnh về tim, đột quỵ, suy/giãn tĩnh mạch; loét dạ dày, loét ruột, viêm gan A/B/C, xơ gan, suy gan, sỏi mật; sỏi thận và niệu quản, sỏi đường tiết niệu dưới, hội chứng thận hư, suy thận; viêm khớp/đa khớp mãn tính, thoái hóa cột sống; suy tủy xương; đục thủy tinh thể bệnh lý; Parkinson, Alzheimer, hội chứng mất trí nhớ; đái tháo đường; tràn khí màng phổi; lupus ban đỏ
 * Bệnh/thương tật có sẵn: Là bệnh hoặcặ thương tật có từ trước ngày bắt đầu được nhận bảo hiểm theo Hợp đồng bảo hiểm và là bệnh/thương tật mà người được bảo hiểm: đã phải điều trị trong vòng 3 năm gần đây hoặc triệu chứng bệnh/thương tật đã xuất hiện hoặc đã xảy ra trước ngày ký hợp đồng mà Người được bảo hiểm đã biết hoặc ý thức được cho dù Người được bảo hiểm có thực sự khám, điều trị hay không.
 Bệnh/thương tật có sẵn bao gồm nhưng không giới hạn ở các bệnh như: viêm Amidan cần phải cắt, viêm VA cần phải nạo, vẹo vách ngăn cần phẫu thuật, rối loạn tiền đình, bệnh hen, bệnh thoái hóa đốt sống, viêm tai giữa cần phẫu thuật đặt ống thông khí, trĩ cần phẫu thuật, thoát vị đĩa đệm, thoái hóa khớp, phẫu thuật dây chằng........
  Danh mục bệnh/thương tật loại trừ trong 365 ngày đầu tiên tham gia bảo hiểm: gồm những bệnh viêm Amidan cần phải cắt, viêm VA cần phải nạo, vẹo vách ngăn cần phẫu thuật, viêm xoang, bệnh hen/suyễn; rối loạn tiền đình, polip các loại; viêm tai giữa cần phẫu thuật; thoát vị đĩaĩ đệm, gút; trĩ;ĩ hội chứng ống cổ tay phải phẫu thuật; rối loại chuyển hóa các loại; phẫu thuật dây chằng/rách sụn chêm
 PHẦN 2: Điều khoản loại trừ chính (Các điểm loạitrừ khác vui lòng tham khảo phần Các điểm loạitrừ trong Quy tắc bảo hiểm)
 Dịch vụ điều trị tại nhà (không bao gồm chi phí y tá chăm sóc tại nhà) hoặcặ tại viện điều trị bằng thủy lực hay các phương pháp thiên
-Kiểm tra sức khỏe địnị h kỳ,
-Khuyết tật bẩm sinh, dị tật bẩm sinh, các bệnh hoặcặ dị dạng thuộc về gen, tình trạng sức khỏe di truyền với các dấu hiệu từ lúc sinh.
+Kiểm tra sức khỏe định kỳ,
+Khuyết tật bẩm sinh, dị tật bẩm sinh, các bệnh hoặc dị dạng thuộc về gen, tình trạng sức khỏe di truyền với các dấu hiệu từ lúc sinh.
 Kiểm tra mắt thông thường, kiểm tra thính giác thông thường, các khuyết tật thoái hóa tự nhiên của mắt (bao gồm cận, viễn, loạn thị)
 Các điều trị với mục đích thẩm mỹ
 Kế hoạch hóa gia đình, điều trị vô sinh, điều trị bất lực, rối loạn chức năng sinh dục, thay đổi giới tính, hay bất cứ hậu quả hoặc biến

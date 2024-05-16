@@ -8,10 +8,7 @@ Lưu ý: Đây là chế độ BHXH liên quan đến ngày nghỉ hưởng lư�
 - Khi nghỉ theo chế độ ốm đau: log portal nghỉ không lương 
 - Khi nghỉ theo chế độ thai sản/vợ sinh: log portal nghỉ thai sản 
 01. Chế độ ốm đau
-Chế độ ốm đau BHXH chi trả 
- * Bản thân ốm 
- * Con ốm 
- * Ốm dài ngày 
+Chế độ ốm đau bảo hiểm xã hội(BHXH) chi trả bao gồm: Bản thân ốm, con ốm, ốm dài ngày
 Bản thân ốm (bệnh thông thường) :
 Điều kiện hưởng chế độ Bản thân ốm (bệnh thông thường) : Người lao động đang tham gia BHXH bị ốm đau, tai nạn không phải TNLĐ, BNN hoặc TNLĐ, BNN tái phát phải nghỉ việc và có xác nhận của cơ sở y tế.
 Thời gian hưởng chế độ Bản thân ốm (bệnh thông thường):

@@ -130,6 +130,8 @@ retriever_cspl=db_cspl.as_retriever(search_kwargs={"k": 4})
 retriever_boi_thuong_suc_khoe=db_boi_thuong_suc_khoe.as_retriever(search_kwargs={"k": 4})
 
 ensemble_retriever = EnsembleRetriever(retrievers=[retriever_thai_san, retriever_all])
+mini_retriever_thaisan = db_thai_san.as_retriever(search_kwargs={"k": 1})
+mini_retriever_baohiem = db_boi_thuong_suc_khoe.as_retriever(search_kwargs={"k": 1})
 prompt = PromptTemplate(template=custom_prompt_template,
                         input_variables=['context', 'question'])
 chain_openAI_quy_dinh = RetrievalQA.from_chain_type(
@@ -141,7 +143,7 @@ chain_openAI_quy_dinh = RetrievalQA.from_chain_type(
 chain_openAI_thai_san = RetrievalQA.from_chain_type(
     llm=ChatOpenAI(model="gpt-3.5-turbo-16k", temperature=0),
     chain_type="stuff",
-    retriever=EnsembleRetriever(retrievers=[retriever_thai_san, retriever_all]),
+    retriever=EnsembleRetriever(retrievers=[retriever_thai_san, retriever_all, mini_retriever_baohiem]),
     chain_type_kwargs={'prompt': prompt}
 )
 chain_openAI_bao_lanh = RetrievalQA.from_chain_type(
@@ -161,7 +163,7 @@ chain_openAI_cham_cong = RetrievalQA.from_chain_type(
 chain_openAI_cspl = RetrievalQA.from_chain_type(
     llm=ChatOpenAI(model="gpt-3.5-turbo-16k", temperature=0),
     chain_type="stuff",
-    retriever=EnsembleRetriever(retrievers=[retriever_cspl, retriever_all]),
+    retriever=EnsembleRetriever(retrievers=[retriever_cspl, retriever_all, mini_retriever_thaisan]),
     chain_type_kwargs={'prompt': prompt}
 )
 # chain_openAI_care = RetrievalQA.from_chain_type(
@@ -170,10 +172,11 @@ chain_openAI_cspl = RetrievalQA.from_chain_type(
 #     retriever=db_care.as_retriever(search_kwargs={"k": 5}),
 #     chain_type_kwargs={'prompt': prompt}
 # )
+
 chain_openAI_boi_thuong_suc_khoe = RetrievalQA.from_chain_type(
     llm=ChatOpenAI(model="gpt-3.5-turbo-16k", temperature=0),
     chain_type="stuff",
-    retriever=EnsembleRetriever(retrievers=[retriever_boi_thuong_suc_khoe, retriever_all]),
+    retriever=EnsembleRetriever(retrievers=[retriever_boi_thuong_suc_khoe, retriever_all, mini_retriever_thaisan]),
     chain_type_kwargs={'prompt': prompt}
 )
 
@@ -643,7 +646,10 @@ def chatbot(request: TTSRequest):
     print(request.text)
     # demo = chain.invoke({"input": request.text})
     # demo = final_tool(request.text)
-    demo = chat_with_history(request.text, request.user_id, request.conversation_id)
+    try:
+        demo = chat_with_history(request.text, request.user_id, request.conversation_id)
+    except:
+        demo = 'Không có thông tin~'
     print(demo)
     return demo
 
